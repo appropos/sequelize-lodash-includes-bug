@@ -1,0 +1,16 @@
+{
+  "name": "sequelize-lodash-includes-bug",
+  "version": "1.0.0",
+  "description": "Shows how Sequelize overrides includes() in a project's LoDash module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./index.js"
+  },
+  "repository": "appropos/sequelize-lodash-includes-bug",
+  "author": "Appropos, LLC",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.0.0",
+    "sequelize": "3.3.2"
+  }
+}
